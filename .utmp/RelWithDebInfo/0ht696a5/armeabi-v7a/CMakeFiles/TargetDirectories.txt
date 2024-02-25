@@ -1,0 +1,5 @@
+D:/UnityProject/UnityProjeleri/CastleDefanse/.utmp/RelWithDebInfo/0ht696a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/UnityProject/UnityProjeleri/CastleDefanse/.utmp/RelWithDebInfo/0ht696a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/UnityProject/UnityProjeleri/CastleDefanse/.utmp/RelWithDebInfo/0ht696a5/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/UnityProject/UnityProjeleri/CastleDefanse/.utmp/RelWithDebInfo/0ht696a5/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/UnityProject/UnityProjeleri/CastleDefanse/.utmp/RelWithDebInfo/0ht696a5/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
